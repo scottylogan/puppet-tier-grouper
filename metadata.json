@@ -1,0 +1,21 @@
+{
+  "name": "tier-grouper",
+  "version":                  "0.1.0",
+  "author":                   "Scotty Logan",
+  "summary":                  "Grouper setup for TIER",
+  "license":                  "MIT",
+  "source":                   "https://github.com/scottylogan/puppet-tier-grouper.git",
+  "project_page":             "https://github.com/scottylogan/puppet-tier-grouper",
+  "issues_url":               "https://github.com/scottylogan/puppet-tier-grouper/issues",
+  "data_provider":            "hiera",
+  "operatingsystem_support":  [
+    {
+      "operatingsystem":           "CentOS",
+      "operatingsystemmajrelease": [
+        "7"
+      ]
+    }
+  ],
+  "dependencies":             [ ]
+}
+
